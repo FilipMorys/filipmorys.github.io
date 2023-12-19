@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://filipmorys.github.io/sitemap.xml
