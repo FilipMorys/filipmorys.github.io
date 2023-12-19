@@ -1,26 +1,28 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Neuroscience. Obesity. Food.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Montreal Neurological Institute</p>
+    <p>NW 252</p>
+    <p>3801 University Street</p>
+    <p>Montreal, QC H2J 2L3</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Over 50% of worldwide population suffers from overweight and obesity. Past work shows that obesity is highly heritable, and that the interaction between genetics and environment determines individual weight. Our work suggests that this is driven by changes in the brain that are related to phenotypes such as impulsivity and, ultimately, increased food intake and weight gain. Thus, we recognise obesity as a disorder rooted in the brain.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Conversely, chronic obesity can lead to neurodegeneration and cognitive decline. My work explores both sides of this obesity-brain interactions and aims to determine what factors put children at risk of weight gain and what are the mechanisms that link obesity to brain atrophy. Ultimately we will use this knowledge to craft prevention and intervention strategies that are aimed at improving life quality of the population.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I currently work at the Montreal Neurological Institute as a research associate. Please have a look at my website and CV to learn more about my work and myself.

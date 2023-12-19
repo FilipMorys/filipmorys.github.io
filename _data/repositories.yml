@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - FilipMorys
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - FilipMorys/WMHOB
+  - FilipMorys/Obesity_maps
+  - FilipMorys/OPO_fMRI
+  - FilipMorys/AD-Obesity
+  - FilipMorys/OBPRS
+  - FilipMorys/COVID_MetS
+

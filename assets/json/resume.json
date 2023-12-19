@@ -1,197 +1,182 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Filip Morys, PhD",
+    "email": "filip.morys@mcgill.ca",
+    "phone": "",
+    "url": "https://github.com/FilipMorys/",
+    "summary": "Postdoctoral fellow at Montreal Neurological Institute, McGill University. Expertise in neurobiology, behavior and plasticity.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "NW252 3801 Rue University",
+      "postalCode": "H3A 2B4",
+      "city": "Montreal",
+      "countryCode": "CA",
+      "region": "Quebec"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "GitHub",
+        "username": "FilipMorys",
+        "url": "https://github.com/FilipMorys/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": [
-        "Relativity"
-      ]
-    }
-  ],
-  "volunteer": [
+      "name": "Montreal Neurological Institute, McGill University",
+      "position": "Postdoctoral fellow",
+      "location": "Montreal, Canada",
+      "startDate": "2019",
+      "endDate": "",
+      "summary": "Research and academic work in neurobiology and related fields."
+    },
     {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
-      ]
-    }],
+      "name": "CodersFirst",
+      "position": "Research Scientist",
+      "location": "Warsaw, Poland",
+      "startDate": "2018",
+      "endDate": "2020",
+      "summary": "Development of cognitive and personality testing for IT recruitment."
+    },
+    {
+      "name": "Morpheus Collective",
+      "position": "Neuroresearch Director",
+      "startDate": "2022",
+      "endDate": "2023",
+      "location": "Los Angeles, USA",
+      "summary": "Neuromarketing research."
+    }
+    // Additional work experiences can be added here
+  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": [
-        "Theory of Relativity"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Leipzig University Medical Center; Max Planck Institute for Human Cognitive and Brain Sciences",
+      "area": "Prof. Annette Horstmann, Prof. Arno Villringer; PhD in Neurobiology, Behavior, and Plasticity",
+      "studyType": "Doctorate",
+      "startDate": "2013",
+      "endDate": "2019",
+      "thesis": "Characterising and altering maladaptive behaviours and tendencies in obesity"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Charité – Medical University Berlin",
+      "area": "Prof. John-Dylan Haynes; Medical Neurosciences",
+      "studyType": "Master's degree",
+      "startDate": "2011",
+      "endDate": "2013",
+      "thesis": "Decoding task sets from human brain activity"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "institution": "Jagiellonian University",
+      "area": "Prof. Agnieszka Niedzwienska; Neurobiology",
+      "studyType": "Bachelor's degree",
+      "startDate": "2008",
+      "endDate": "2011",
+      "thesis": "Neuropsychology of prospective memory"
     },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+   {
+      "institution": "Dahlem Institute for Neuroimaging of Emotions",
+      "area": "Prof. Felix Blankenburg; Neuroimaging pipelines improvement",
+      "studyType": "Laboratory rotation",
+      "startDate": "2012",
+      "endDate": "2012"
     },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+   {
+      "institution": "Charité – Medical University Berlin, Working Group Cognition, Ageing, Neurorehabilitation",
+      "area": "Prof. Agnes Floeel; Prospective memory testing",
+      "studyType": "Laboratory rotation",
+      "startDate": "2012",
+      "endDate": "2012"
     },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+   {
+      "institution": "Nencki Institute for Experimental Biology, Laboratory of Preclinical Studies for Neurodegenerative Disease",
+      "area": "Prof. Grazing Niewiadomska; Histological and behavioural techniques in neurodegeneration",
+      "studyType": "Internship",
+      "startDate": "2010",
+      "endDate": "2010",
+      "thesis": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
-      ]
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": ["MATLAB", "R", "Python", "SQL", "Bash"]
+    },
+    {
+      "name": "Neuroimaging Tools",
+      "level": "Expert",
+      "keywords": ["FSL", "SPM", "Nilearn", "Nipype", "Nibabel", "AFNI", "Tractoflow", "fMRIPrep", "FreeSurfer", "CAT"]
+    },
+    {
+      "name": "Statistical Tools",
+      "level": "Expert",
+      "keywords": ["General linear model", "Generalized linear model", "Machine Learning", "LASSO Regression", "Partial Least Squares Analysis", "Principal Component Analysis", "Independent Component Analysis"]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-      "icon":""
+      "language": "Polish",
+      "fluency": "Fluent/C2"
     },
     {
       "language": "English",
-      "fluency": "Fluent"
-      "icon":""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "fluency": "Fluent/C2"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "language": "German",
+      "fluency": "Fluent/C1"
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
-      ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "language": "French",
+      "fluency": "Fluent/C1"
     }
+    // Additional languages can be added here
+  ],
+  "awards": [
+    {
+      "title": "Society for the Study of Ingestive Behavior New Investigator Travel Award",
+      "project": "Influence of obesity and MAPT/ApoE genotypes on brain structure and cognition",
+      "amount": "500 USD",
+      "date": "2023"
+    },
+    {
+      "title": "Relève étoile Jacques Genest award for best publication",
+      "amount": "1000 CAD",
+      "date": "2022"
+    },
+    {
+      "title": "Lewis Reford Travel Award",
+      "institution": "Montreal Neurological Institute",
+      "amount": "1500 CAD",
+      "date": "2022"
+    },
+    {
+      "title": "Harry R. Kissileff award for best short oral presentation",
+      "event": "Annual Meeting of the Society for the Study of Ingestive Behavior",
+      "date": "2021"
+    },
+    {
+      "title": "Research Academy Leipzig Travel Grant",
+      "amount": "715 EUR",
+      "date": "2020"
+    },
+    {
+      "title": "German Obesity Society best poster award",
+      "project": "Neural correlates of retraining automatic action tendencies in obesity",
+      "amount": "500 EUR",
+      "date": "2017"
+    },
+    {
+      "title": "Travel grant and stipend to attend Obesity Summer Bootcamp",
+      "institution": "Leipzig University",
+      "amount": "3000 EUR",
+      "date": "2014"
+    },
+    {
+      "title": "Fellowship for up-and-coming scientists",
+      "institution": "NeuroCure Cluster of Excellence, Berlin, Germany",
+      "amount": "11000 EUR",
+      "date": "2012/2013"
+    }
+    // Additional awards can be added here
   ]
 }
