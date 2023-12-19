@@ -28,3 +28,6 @@ nav_order: 5
 
 #### Le Devoir Science Article (French)
 [Science: L'obésité amincit le cortex cérébral](https://www.ledevoir.com/societe/science/779862/science-l-obesite-amincit-le-cortex-cerebral)
+
+#### Article highlighting our work on brain anatomy and genetic risk for obesity in children
+[Nature Mental Health research highlight](https://www.nature.com/articles/s44220-023-00020-4)
