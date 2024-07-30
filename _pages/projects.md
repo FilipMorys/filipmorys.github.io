@@ -12,6 +12,9 @@ horizontal: false
 
 ## <span style="color:#33c1ff">Invited Talks</span>
 
+### 2024
+- Neurocognitive consequences of adult obesity. Society for the Study of Ingestive Behavior. Chicago, USA.
+
 ### 2023
 - Neural correlates of obesity across the lifespan. Centre Hospitalier Universitaire Sainte-Justine. Montreal, Canada.
 
