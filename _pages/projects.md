@@ -12,7 +12,12 @@ horizontal: false
 
 ## <span style="color:#33c1ff">Invited Talks</span>
 
+### 2025
+- Obesity, metabolism, diet, and brain health. Neurology Grand Rounds. The Montreal Neurological Institute, McGill University, Montreal, Canada.
+- Ultra-processed food consumption affects structural integrity of feeding-related brain regions independent and via adiposity. Modern Diet and Physiology Research Center, McGill University, Montreal, Canada.
+
 ### 2024
+- Brain-obesity interactions across the lifespan: insights from population-based cohorts. New York University. New York, USA.
 - Neurocognitive consequences of adult obesity. Society for the Study of Ingestive Behavior. Chicago, USA.
 
 ### 2023
@@ -29,15 +34,24 @@ horizontal: false
 
 ---
 
-## <span style="color:#33c1ff">Symposia</span>
+## <span style="color:#33c1ff">Symposia/Roundtables/Workshops</span>
+
+## 2024
+- Maximize your Research on Obesity and Diabetes platform launch event. Mentor. 2024, Toronto, Canada
 
 ## 2022
 
-- **Re-envisioning the future of academic training**. Organizers: Carolina Makowski, Filip Morys, Phoebe Thomson, Anne Bilot. Organization for Human Brain Mapping Annual Meeting 2022, Glasgow, United Kingdom.
+- **Re-envisioning the future of academic training**. Organisers: Carolina Makowski, Filip Morys, Phoebe Thomson, Anne Bilot. Organization for Human Brain Mapping Annual Meeting 2022, Glasgow, United Kingdom.
+- **Becoming a Leading Investigator in Human Neuroscience**. Organisers/Chairs: Anne Bilot, Filip Morys. Organization for Human Brain Mapping Annual Meeting 2022, Glasgow, United Kingdom
+- Lunch with mentors. Organisers: OHBM SP-SIG. Organization for Human Brain Mapping Annual Meeting 2022, Glasgow, United Kingdom
 
 ---
 
 ## <span style="color:#33c1ff">Oral Presentations</span>
+
+
+## 2024
+- **No association between peripheral glucose control and central insulin sensitivity or cognition in youth with overweight/obesity.** Talk presented at the Annual Meeting of the Society for the Study of Ingestive Behavior, Chicago, Illinois, USA. 09-07-2024 – 13-07-2024.
 
 ## 2023
 
@@ -71,6 +85,10 @@ horizontal: false
 ---
 
 ## <span style="color:#33c1ff">Poster Presentations</span>
+
+## 2024
+1. **Atrophy Progression in People With a Family History of Alzheimer's disease is Shaped by Connectivity.** Poster presented at the Organization for Human Brain Mapping (OHBM) Annual Meeting. Seoul, South Korea.
+2. **Relationship between obesity, related comorbidities, and subcortical neuroinflammation in young and older adults.** Poster presented at the Organization for Human Brain Mapping (OHBM) Annual Meeting. Seoul, South Korea.
 
 ## 2023
 

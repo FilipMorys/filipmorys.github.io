@@ -10,6 +10,13 @@ nav_order: 6
 
 ### <span style="color:#33c1ff">Academic Service & Outreach</span>
 
+**2025**
+- Chair of the Canada Excellence Research Chair Equity, Diversity, and Inclusivity in Action Committee
+
+**2024**
+- Mentorship committee member of MyRoad - Maximize your Research on Obesity and Diabetes 
+- Guest Editor - Frontiers in Neuroscience
+
 **2023**
 - Associate Editor – Journal of Alzheimer’s Disease
 - Editor - Frontiers in Psychology
@@ -51,6 +58,9 @@ nav_order: 6
 - Maladaptive plasticity in behavioral disorders and addictions. Lecture. Berlin School of Mind and Brain, Humboldt University Berlin, Germany, 2015-10-06 — 2015-10-08.
 
 ### <span style="color:#33c1ff">Supervision and Mentoring</span>
+
+**2024**
+-Shilan Heshmati
 
 **2023**
 - Mayuri Maheswaran (graduate, MSc program)
@@ -100,3 +110,8 @@ nav_order: 6
 19. Cerebral Cortex
 20. Neurobiology of Stress
 21. International Journal of Environmental Research and Public Health
+23. eBioMedicine
+24. Physiology and Behavior
+25. NPJ Aging
+26. NPJ Parkinson’s disease
+27. Communications Biology
