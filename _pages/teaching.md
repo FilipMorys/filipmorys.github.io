@@ -17,6 +17,9 @@ nav_order: 5
 <iframe src="https://player.vimeo.com/video/848000516?h=cd7489409c&byline=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/848000516">Neurocognitive correlates of obesity across the lifespan, Filip Morys - 20 juillet</a> from <a href="https://vimeo.com/chusj">CHU Sainte-Justine</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+#### Ultra-processed food relationship with brain changes
+[Ultra-processed foods linked to changes in brain regions that control eating behavior, study finds](https://www.psypost.org/neuroscience-ultra-processed-foods-linked-to-changes-in-brain-regions-that-control-eating-behavior-study-finds/)
+
 #### Interview with NBC on my work
 [Obesity can cause changes in the brain similar to Alzheimer's, study suggests](https://www.nbcnews.com/health/aging/obesity-can-cause-changes-brain-similar-alzheimers-study-suggests-rcna66555)
 
