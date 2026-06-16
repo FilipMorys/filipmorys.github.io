@@ -10,6 +10,10 @@ nav_order: 6
 
 ### <span style="color:#33c1ff">Academic Service & Outreach</span>
 
+**2026**
+- Associate Editor – Journal of Alzheimer’s Disease
+- Program Committee, Society for the Study of Ingestive Behavior
+
 **2025**
 - Chair of the Canada Excellence Research Chair Equity, Diversity, and Inclusivity in Action Committee
 

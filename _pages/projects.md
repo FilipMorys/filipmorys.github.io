@@ -12,6 +12,11 @@ horizontal: false
 
 ## <span style="color:#33c1ff">Invited Talks</span>
 
+### 2026
+- Obesity, Metabolic Dysfunction, Environment, and the Brain: Evidence from Population-Based Cohorts Across the Lifespan. Talk to be presented at the Canadian Neurometabolic Club Meeting. Montreal, Canada.
+- Neurobehavioural causes and consequences of obesity in population-based cohorts. Talk to be presented at the Society for Biological Psychiatry Annual Meeting, New York City, USA.
+
+
 ### 2025
 - Obesity, metabolism, diet, and brain health. Neurology Grand Rounds. The Montreal Neurological Institute, McGill University, Montreal, Canada.
 - Ultra-processed food consumption affects structural integrity of feeding-related brain regions independent and via adiposity. Modern Diet and Physiology Research Center, McGill University, Montreal, Canada.

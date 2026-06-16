@@ -9,9 +9,9 @@ nav_order: 1
 
 
 <b> Google scholar stats </b>
-* Citations: 850
-* h-index: 19
-* i10-index: 23
+* Citations: 1171
+* h-index: 21
+* i10-index: 26
 
 
 <!-- _pages/publications.md -->

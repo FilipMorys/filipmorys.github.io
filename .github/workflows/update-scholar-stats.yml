@@ -1,0 +1,71 @@
+name: Update Google Scholar Stats
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 6 AM UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-scholar-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install scholarly
+
+      - name: Fetch and update Scholar stats
+        run: |
+          python3 << 'EOF'
+          import re
+          import sys
+          from scholarly import scholarly
+
+          try:
+              author = scholarly.search_author_id('kow6dIkAAAAJ')
+              author = scholarly.fill(author, sections=['basics', 'indices'])
+
+              citations = author.get('citedby')
+              h_index = author.get('hindex')
+              i10_index = author.get('i10index')
+
+              if citations is None or h_index is None or i10_index is None:
+                  print("Incomplete stats returned. Skipping update.")
+                  sys.exit(0)
+
+              print(f"Fetched: Citations={citations}, h-index={h_index}, i10-index={i10_index}")
+
+              with open('_pages/publications.md', 'r') as f:
+                  content = f.read()
+
+              content = re.sub(r'\* Citations: \d+', f'* Citations: {citations}', content)
+              content = re.sub(r'\* h-index: \d+', f'* h-index: {h_index}', content)
+              content = re.sub(r'\* i10-index: \d+', f'* i10-index: {i10_index}', content)
+
+              with open('_pages/publications.md', 'w') as f:
+                  f.write(content)
+
+              print("Updated publications.md successfully.")
+          except Exception as e:
+              print(f"Error fetching Scholar stats: {e}")
+              sys.exit(0)  # Exit gracefully — old values remain if Scholar is unreachable
+          EOF
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet _pages/publications.md || (
+            git add _pages/publications.md &&
+            git commit -m "chore: update Google Scholar stats" &&
+            git push
+          )
